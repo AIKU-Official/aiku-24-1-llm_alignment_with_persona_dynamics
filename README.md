@@ -1,6 +1,6 @@
 # 👮 LAPD: Large language model Alignment through Persona Dynamics
 
-📢 2024년 여름학기 [AIKU](https://github.com/AIKU-Official) 활동으로 진행한 프로젝트입니다
+📢 2024년 여름학기 [AIKU](https://github.com/AIKU-Official) 활동으로 진행한 프로젝트입니다 \
 📢 2024년 전기 고려대학교 산학협력단의 일경험사업 지원으로 진행한 프로젝트입니다
 
 ## 팀원
